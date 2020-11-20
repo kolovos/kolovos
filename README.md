@@ -1,1 +1,1 @@
-Most of my [open-source activity](https://git.eclipse.org/c/epsilon/org.eclipse.epsilon.git/log/) is in the context of the [Eclipse Epsilon]() project.
+Most of my [open-source activity](https://git.eclipse.org/c/epsilon/org.eclipse.epsilon.git/log/) is in the context of the [Epsilon](https://eclipse.org/epsilon) project of the [Eclipse Foundation](https://eclipse.org).
